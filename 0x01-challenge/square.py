@@ -2,10 +2,9 @@
 """The module define the class Square"""
 
 
-class Square:
+class Square():
     """The class Square define: the constructor method, area, perimeter and
     str representation"""
-
     width = 0
     height = 0
 
